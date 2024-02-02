@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @owenbradstreet
 - 👀 I’m interested in Gaming.
-- 🌱 I’m currently learning Unreal/C++
+- 🌱 I’m currently experienced in C#/Blazor.
+- ✨ I'd like to get better at C++/Unreal.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 Reach me on discord Owen.#2829.
+- 📫 Reach me on discord `owenstreets`.
 
 <!---
 owenbradstreet/owenbradstreet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
